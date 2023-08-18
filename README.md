@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  
 - [Author](#author)
 
 
@@ -83,4 +82,4 @@ I want to work on techniques of using flexbox and positioning of elements. This 
 - Frontend Mentor - [@Rutz1234](https://www.frontendmentor.io/profile/Rutz1234)
 
 
-*
+
